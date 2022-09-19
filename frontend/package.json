@@ -33,6 +33,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "env": {
+    "es2020": true, 
+    "browser": true,
+    "node": true,
+    "mocha": true
   }
  
 }
